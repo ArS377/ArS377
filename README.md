@@ -4,7 +4,7 @@ I'm a **UCLA Computer Science student** graduating in June 2028. I build backend
 
 ## What I'm working on
 
-- Building FastAPI services and agent workflows for financial research at **Arvya**.
+- Building FastAPI services and agent workflows for financial research at **Arvya, Inc**.
 - Writing embedded telemetry software in **C/C++** and Python for **UCLA Bruin Racing**.
 - Using simulated EEG and The Virtual Brain to study candidate dementia biomarkers at UCLA's **Biomimetic Research Lab**.
 
